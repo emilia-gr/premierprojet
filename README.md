@@ -6,12 +6,12 @@
     <title>Exemple de code gitL</title>
 </head>
 <body>
-
+<
     <header>
         <h1>Mon Premier Site Web</h1>
-    </header>
+  
 
-    <main>
+    <mainz
         <p>Bienvenue sur mon site. Voici un <strong>texte en gras</strong> et un lien vers <a href="https://www.google.com">Google</a> {Link: Google website https://www.google.com} [1].</p>
         
         <!-- Exemple d'insertion d'image -->
